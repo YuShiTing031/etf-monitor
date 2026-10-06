@@ -1,39 +1,39 @@
 {
   "imgList": [
-    "image/20261005/report_capital_NEW_2026-10-05.png",
-    "image/20261005/report_capital_STRONG_2026-10-05.png",
-    "image/20261005/report_capital_USAA_2026-10-05.png",
-    "image/20261005/report_cathay_EA_2026-10-05.png",
-    "image/20261005/report_ctbc_406A_2026-10-05.png",
-    "image/20261005/report_ctbc_995A_2026-10-05.png",
-    "image/20261005/report_fhtrust_ETF23_2026-10-05.png",
-    "image/20261005/report_fhtrust_ETF24_2026-10-05.png",
-    "image/20261005/report_firstgold_994A_2026-10-05.png",
-    "image/20261005/report_nomura_980A_2026-10-05.png",
-    "image/20261005/report_nomura_985A_2026-10-05.png",
-    "image/20261005/report_nomura_999A_2026-10-05.png",
-    "image/20261005/report_uni_49YTW_2026-10-05.png",
-    "image/20261005/report_uni_61YTW_2026-10-05.png",
-    "image/20261005/report_uni_63YTW_2026-10-05.png"
+    "image/20261006/report_capital_NEW_2026-10-06.png",
+    "image/20261006/report_capital_STRONG_2026-10-06.png",
+    "image/20261006/report_capital_USAA_2026-10-06.png",
+    "image/20261006/report_cathay_EA_2026-10-06.png",
+    "image/20261006/report_ctbc_406A_2026-10-06.png",
+    "image/20261006/report_ctbc_995A_2026-10-06.png",
+    "image/20261006/report_fhtrust_ETF23_2026-10-06.png",
+    "image/20261006/report_fhtrust_ETF24_2026-10-06.png",
+    "image/20261006/report_firstgold_994A_2026-10-06.png",
+    "image/20261006/report_nomura_980A_2026-10-06.png",
+    "image/20261006/report_nomura_985A_2026-10-06.png",
+    "image/20261006/report_nomura_999A_2026-10-06.png",
+    "image/20261006/report_uni_49YTW_2026-10-06.png",
+    "image/20261006/report_uni_61YTW_2026-10-06.png",
+    "image/20261006/report_uni_63YTW_2026-10-06.png"
   ],
-  "reportDate": "20261005",
+  "reportDate": "20261006",
   "indexImages": [
-    "image/20261005/consensus.png"
+    "image/20261006/consensus.png"
   ],
   "indexData": {
     "加權指數": {
       "symbol": "tse_t00.tw",
-      "date": "2026-10-05",
-      "close": 49712.04,
-      "change": 1236.3,
-      "pct": 2.55
+      "date": "2026-10-06",
+      "close": 49822.55,
+      "change": 110.51,
+      "pct": 0.22
     },
     "櫃買指數": {
       "symbol": "otc_o00.tw",
-      "date": "2026-10-05",
-      "close": 432.48,
-      "change": 5.55,
-      "pct": 1.3
+      "date": "2026-10-06",
+      "close": 430.86,
+      "change": -1.62,
+      "pct": -0.37
     }
   },
   "ETF_NAME_BY_CODE": {
@@ -54,6 +54,6 @@
     "983A": "00983A 中國信託ARK創新主動式ETF基金",
     "406A": "00406A 中國信託台灣收益成長主動式ETF基金"
   },
-  "consensusImage": "image/20261005/consensus.png",
+  "consensusImage": "image/20261006/consensus.png",
   "dailySummaryImage": null
 }
